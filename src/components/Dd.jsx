@@ -24,12 +24,12 @@ function Dd() {
 
   return (
     <div className='dmain'>
-      <h4 className='fade-element'>"A legacy like none other I had created an inevitable" -</h4>
+      <h4 className='fade-element'>"Every step tells a story, every gesture echoes tradition." -</h4>
       <div className='profile'>
         <div className='og'>
           <div className='ogin'></div>
         </div>
-        <p className='name fade-element'>Km Asha Pradeep</p>
+        <p className='name fade-element'>KKM Asha Pradeep</p>
       </div>
     </div>
   );

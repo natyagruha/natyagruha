@@ -33,17 +33,17 @@ function Section3() {
 
       <div className="team-member">
         <div className='pic pic2'></div>
-        <h4><span>MD:</span> Mohan D Kurichy</h4>
+        <h4><span>CHAIRMAN:</span> Mohan D Kurichy</h4>
       </div>
 
       <div className="team-member">
         <div className='pic pic3'></div>
-        <h4><span>General Secretary:</span> Vijayapan</h4>
+        <h4><span>General Secretary:</span> TS Vijayakumar</h4>
       </div>
 
       <div className="team-member">
         <div className='pic pic4'></div>
-        <h4><span>All in All:</span> Pradeep PR</h4>
+        <h4><span>VICE CHAIRMAN:</span> Pradeep PR</h4>
       </div>
     </div>
   );
